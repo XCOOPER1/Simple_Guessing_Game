@@ -1,9 +1,3 @@
-# Simple_Guessing_Game
-
-Here is a simple README file for your project. If you need any specific information included, please let me know!
-
----
-
 # Guessing Game
 
 Welcome to the Guessing Game! This is a simple console-based game written in C#. The objective of the game is to guess a randomly generated number within a specified range. The game provides feedback on whether the guess is too high, too low, or correct, making it an engaging way to test your luck and intuition.
