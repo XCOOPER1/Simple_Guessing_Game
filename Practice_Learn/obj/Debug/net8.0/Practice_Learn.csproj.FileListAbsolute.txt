@@ -1,0 +1,14 @@
+C:\Users\lefre\source\repos\Practice_Learn\bin\Debug\net8.0\Practice_Learn.exe
+C:\Users\lefre\source\repos\Practice_Learn\bin\Debug\net8.0\Practice_Learn.deps.json
+C:\Users\lefre\source\repos\Practice_Learn\bin\Debug\net8.0\Practice_Learn.runtimeconfig.json
+C:\Users\lefre\source\repos\Practice_Learn\bin\Debug\net8.0\Practice_Learn.dll
+C:\Users\lefre\source\repos\Practice_Learn\bin\Debug\net8.0\Practice_Learn.pdb
+C:\Users\lefre\source\repos\Practice_Learn\obj\Debug\net8.0\Practice_Learn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lefre\source\repos\Practice_Learn\obj\Debug\net8.0\Practice_Learn.AssemblyInfoInputs.cache
+C:\Users\lefre\source\repos\Practice_Learn\obj\Debug\net8.0\Practice_Learn.AssemblyInfo.cs
+C:\Users\lefre\source\repos\Practice_Learn\obj\Debug\net8.0\Practice_Learn.csproj.CoreCompileInputs.cache
+C:\Users\lefre\source\repos\Practice_Learn\obj\Debug\net8.0\Practice_Learn.dll
+C:\Users\lefre\source\repos\Practice_Learn\obj\Debug\net8.0\refint\Practice_Learn.dll
+C:\Users\lefre\source\repos\Practice_Learn\obj\Debug\net8.0\Practice_Learn.pdb
+C:\Users\lefre\source\repos\Practice_Learn\obj\Debug\net8.0\Practice_Learn.genruntimeconfig.cache
+C:\Users\lefre\source\repos\Practice_Learn\obj\Debug\net8.0\ref\Practice_Learn.dll
